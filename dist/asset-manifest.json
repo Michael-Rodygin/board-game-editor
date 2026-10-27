@@ -98,7 +98,6 @@
     "wooded_hills.png"
   ],
   "buildings": [
-    "auction_house.png",
     "barren_wasteland.png",
     "blue_castle_town.png",
     "burnt_ruins.png",
@@ -120,6 +119,7 @@
     "jungle_ziggurat.png",
     "livestock_farm_1.png",
     "livestock_farm_2.png",
+    "mage_tower.png",
     "market_town.png",
     "mine_tower.png",
     "mine_waterwheel.png",
